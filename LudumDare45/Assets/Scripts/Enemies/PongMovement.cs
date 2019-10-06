@@ -16,7 +16,7 @@ public class PongMovement : MonoBehaviour
 
     private void Update()
     {
-        _rb.velocity = _direction * Speed * Time.deltaTime;
+        _rb.velocity = _direction * Speed;
     }
 
     private void OnCollisionEnter2D(Collision2D other)

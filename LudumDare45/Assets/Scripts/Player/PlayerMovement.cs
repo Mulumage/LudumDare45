@@ -54,14 +54,14 @@ public class PlayerMovement : MonoBehaviour
 
     private void Move()
     {
-        _rb.velocity = _direction * _speed.Value * Time.deltaTime;
+        _rb.velocity = _direction * _speed.Value;
     }
 
     private void DashTick()
     {
         if (_currentDashTime.Value > 0)
         {
-            _rb.velocity = _direction * _dashSpeed.Value * Time.deltaTime;
+            _rb.velocity = _direction * _dashSpeed.Value;
             _currentDashTime.Value -= Time.deltaTime;
             return;
         }

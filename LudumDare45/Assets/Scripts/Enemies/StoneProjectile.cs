@@ -15,7 +15,7 @@ public class StoneProjectile : MonoBehaviour
     {
         var direction = Player.Instance.transform.position - transform.position;
         _rb = GetComponent<Rigidbody2D>();
-        _rb.velocity = direction.normalized * Speed * Time.deltaTime;
+        _rb.velocity = direction.normalized * Speed;
     }
 
 

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoleDigInBehaviour : StateMachineBehaviour
 {
-    public float Speed = 100;
+    public float Speed = 1;
 
     private Rigidbody2D _rb;
     private Vector2 _direction;
@@ -21,13 +21,13 @@ public class MoleDigInBehaviour : StateMachineBehaviour
         _direction.x = Random.Range(-10, 10);
         _direction.y = Random.Range(-10, 10);
         _time = Random.Range(2f, 6f);
-        _rb.velocity = _direction.normalized * Speed * Time.deltaTime;
+        _rb.velocity = _direction.normalized * Speed;
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        _rb.velocity = _rb.velocity.normalized * Speed * Time.deltaTime;
+        _rb.velocity = _rb.velocity.normalized * Speed;
         
         _time -= Time.deltaTime;
 

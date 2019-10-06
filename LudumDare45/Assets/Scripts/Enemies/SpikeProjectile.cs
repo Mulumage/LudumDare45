@@ -30,6 +30,6 @@ public class SpikeProjectile : MonoBehaviour
 
     private void Update()
     {
-        _rb.velocity = _direction.normalized * Speed * Time.deltaTime;
+        _rb.velocity = _direction.normalized * Speed;
     }
 }

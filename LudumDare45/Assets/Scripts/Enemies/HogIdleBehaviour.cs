@@ -10,7 +10,7 @@ public class HogIdleBehaviour : StateMachineBehaviour
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        _time = Random.Range(3, 6);
+        _time = Random.Range(5, 8.5f);
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -22,7 +22,7 @@ public class HogIdleBehaviour : StateMachineBehaviour
             return;
 
         animator.SetTrigger(Shoot);
-        _time = 5;
+        _time = 100;
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state

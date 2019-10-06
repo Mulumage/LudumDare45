@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be1489fe70eb5994c958af7ca02ee451, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 200
+  Speed: 2.5
   _spikePS: {fileID: 3717608948158352010, guid: 6443a967b00f0144b829c6723eb5f722,
     type: 3}
   _hitAudio: {fileID: 6730840451205895296, guid: c4c524df498398e4f81b3d836e2b0a0c,

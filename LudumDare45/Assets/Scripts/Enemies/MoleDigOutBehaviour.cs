@@ -19,7 +19,7 @@ public class MoleDigOutBehaviour : StateMachineBehaviour
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        _time -= Time.deltaTime;
+        _time -= Time.fixedDeltaTime;
         
         if (_time < 0)
             animator.SetTrigger(Shoot);

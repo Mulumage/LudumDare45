@@ -642,7 +642,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -1002,7 +1002,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150.55005
+      value: 150.55078
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -1257,7 +1257,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150.55005
+      value: 150.55078
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -2588,7 +2588,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 840.55005
+      value: 840.55
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -3338,7 +3338,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _slimePs: {fileID: 6113025975530289417, guid: 68b340588a923ec4d9274bfc2d758b0e,
     type: 3}
-  Speed: 120
+  Speed: 2.75
 --- !u!95 &161642461
 Animator:
   serializedVersion: 3
@@ -3670,7 +3670,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674aa957212d49b2b3077a5027bad75b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1.5
 --- !u!114 &165466644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4069,7 +4069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674aa957212d49b2b3077a5027bad75b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1.5
 --- !u!114 &203012123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4681,7 +4681,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 840.55005
+      value: 840.55
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -5004,7 +5004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4850004738dcb614b82595c8180465a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DamageAmount: 1
+  DamageAmount: 2
 --- !u!114 &259449158
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5017,7 +5017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbfff68b373e3834f86a266caa3ce708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 50
+  Speed: 0.4
   _sr: {fileID: 658915357}
 --- !u!114 &259449159
 MonoBehaviour:
@@ -5249,7 +5249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbfff68b373e3834f86a266caa3ce708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 50
+  Speed: 0.4
   _sr: {fileID: 764332767}
 --- !u!114 &261537632
 MonoBehaviour:
@@ -6142,7 +6142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6dd86970b29bf45a1eba87e313b674, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1
 --- !u!114 &331722255
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7353,7 +7353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbfff68b373e3834f86a266caa3ce708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 50
+  Speed: 0.4
   _sr: {fileID: 1383911485}
 --- !u!114 &404281528
 MonoBehaviour:
@@ -7718,7 +7718,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -8271,7 +8271,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -10742,7 +10742,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6dd86970b29bf45a1eba87e313b674, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1
 --- !u!50 &570801421
 Rigidbody2D:
   serializedVersion: 4
@@ -15314,7 +15314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6dd86970b29bf45a1eba87e313b674, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1
 --- !u!50 &838464494
 Rigidbody2D:
   serializedVersion: 4
@@ -16258,7 +16258,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d6dd86970b29bf45a1eba87e313b674, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1
 --- !u!50 &864436048
 Rigidbody2D:
   serializedVersion: 4
@@ -18516,7 +18516,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _slimePs: {fileID: 6113025975530289417, guid: 68b340588a923ec4d9274bfc2d758b0e,
     type: 3}
-  Speed: 120
+  Speed: 2.75
 --- !u!95 &1022974680
 Animator:
   serializedVersion: 3
@@ -19058,7 +19058,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -19930,7 +19930,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150.55005
+      value: 150.55078
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -20235,7 +20235,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -21062,7 +21062,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -21538,7 +21538,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150.55005
+      value: 150.55078
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -21950,7 +21950,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674aa957212d49b2b3077a5027bad75b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1.5
 --- !u!114 &1254210417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22554,7 +22554,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -23395,12 +23395,12 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 840.55005
+      value: 840.55
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -24116,7 +24116,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674aa957212d49b2b3077a5027bad75b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1.5
 --- !u!114 &1403358895
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24474,7 +24474,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 840.55005
+      value: 840.55
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -25158,7 +25158,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _slimePs: {fileID: 6113025975530289417, guid: 68b340588a923ec4d9274bfc2d758b0e,
     type: 3}
-  Speed: 120
+  Speed: 2.75
 --- !u!114 &1465937316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25621,7 +25621,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbfff68b373e3834f86a266caa3ce708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 50
+  Speed: 0.4
   _sr: {fileID: 566139877}
 --- !u!114 &1493852479
 MonoBehaviour:
@@ -26751,7 +26751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbfff68b373e3834f86a266caa3ce708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 50
+  Speed: 0.4
   _sr: {fileID: 1552723193}
 --- !u!114 &1533108678
 MonoBehaviour:
@@ -29077,7 +29077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674aa957212d49b2b3077a5027bad75b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1.5
 --- !u!114 &1650327411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29203,7 +29203,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -30905,7 +30905,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _slimePs: {fileID: 6113025975530289417, guid: 68b340588a923ec4d9274bfc2d758b0e,
     type: 3}
-  Speed: 120
+  Speed: 2.75
 --- !u!95 &1776357011
 Animator:
   serializedVersion: 3
@@ -34408,12 +34408,12 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 840.55005
+      value: 840.55
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -34675,7 +34675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbfff68b373e3834f86a266caa3ce708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 50
+  Speed: 0.4
   _sr: {fileID: 1916609250}
 --- !u!114 &1927906814
 MonoBehaviour:
@@ -35058,7 +35058,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674aa957212d49b2b3077a5027bad75b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 100
+  Speed: 1.5
 --- !u!50 &1934903515
 Rigidbody2D:
   serializedVersion: 4
@@ -36459,7 +36459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbfff68b373e3834f86a266caa3ce708, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 50
+  Speed: 0.4
   _sr: {fileID: 622350832}
 --- !u!114 &2035936253
 MonoBehaviour:
@@ -36874,7 +36874,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -495
+      value: -495.00003
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
@@ -38080,7 +38080,7 @@ PrefabInstance:
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 150.55005
+      value: 150.55078
       objectReference: {fileID: 0}
     - target: {fileID: 8401866511288307667, guid: b2efd23cf724642459f70fddaad77bb3,
         type: 3}

@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1049b5e57e6feaa4d94a82d254ee7d88, type: 3}
   m_Name: Dash Speed [Player]
   m_EditorClassIdentifier: 
-  _value: 500
+  _value: 10

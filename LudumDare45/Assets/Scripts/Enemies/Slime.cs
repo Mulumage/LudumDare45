@@ -40,8 +40,8 @@ public class Slime : MonoBehaviour
         {
             _isWalking = false;
             _animator.SetBool(IsWalking, false);
-            _waitTime = Random.Range(0.5f, 3f);
-            _moveTime = Random.Range(0.5f, 1.75f);
+            _waitTime = Random.Range(1f, 3f);
+            _moveTime = Random.Range(0.5f, 1.5f);
         }
 
         MoveTowardsPlayer();
@@ -57,7 +57,7 @@ public class Slime : MonoBehaviour
     private void MoveTowardsPlayer()
     {
         var direction = Player.Instance.transform.position - transform.position;
-        _rb.velocity = direction.normalized * Speed * Time.deltaTime;
+        _rb.velocity = direction.normalized * Speed;
         _isWalking = true;
         _animator.SetBool(IsWalking, true);
     }
