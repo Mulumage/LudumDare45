@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 187a16a6ccd08b040a86edd16a8b0f02, type: 3}
+  m_Name: MoleShoot [Audio Element]
+  m_EditorClassIdentifier: 
+  _minPitch: 0.9
+  _maxPitch: 1
+  _minVolume: 0.3
+  _maxVolume: 0.3
+  _isLooping: 0
+  _clip: {fileID: 8300000, guid: 57403cb8261248c46b59b976b22be396, type: 3}
